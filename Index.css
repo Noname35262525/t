@@ -1,0 +1,23 @@
+body{
+    background-color: #000000;
+}
+h1{
+    background-color: blue;
+}
+div{
+    width: 300px;
+    margin: auto;  
+    background-color: #000000;
+    align-self: center;
+}
+img{
+    height: 300px;
+}
+#REDV{
+    background-color: #910000;
+    float: left;
+    
+}
+p{
+    color: #888888;
+}
